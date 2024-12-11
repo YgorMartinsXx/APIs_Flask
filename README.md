@@ -1,7 +1,7 @@
 
 # Desenvolvimento e manipulaçao de APIs
 
-Este repositório é direcionado a quem, assim como eu, gosta do desenvolvimento de APIs. Em cada seção deste repositório você poderá entender os fundamentos e estrututras básicas de uma API.
+Este repositório é direcionado a quem, assim como eu, gosta do desenvolvimento de APIs. Em cada seção deste repositório você poderá entender os fundamentos e estruturas básicas de uma API.
 
 
 
