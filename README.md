@@ -33,7 +33,7 @@ Se atente somente a URL a ser inserida no PostMan pois a porta pode e deve mudad
 
     http://localhost:5002/
 
-    #Está parte se encontrará sempre ao final dos arquivos "servidor"
+    #Esta parte se encontrará sempre ao final dos arquivos "servidor"
     if __name__ == '__main__':
         app.run(host = 'localhost', port = 5002, debug = True)
 
